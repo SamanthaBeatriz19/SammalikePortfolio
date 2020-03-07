@@ -1,0 +1,11 @@
+.parallax{
+   height: 500px;
+   background-image: url("fenhir.png") ;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center-top;
+}
+.fundo{
+   background-color: rgb(234, 255, 222);
+}
