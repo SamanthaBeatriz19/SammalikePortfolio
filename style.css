@@ -1,11 +1,24 @@
-.parallax{
+/*.parallax{
    height: 500px;
-   background-image: url("fenhir.png") ;
+   background-image: url("images/fenhir.png") ;
    background-attachment: fixed;
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center-top;
-}
+}*/
 .fundo{
    background-color: rgb(234, 255, 222);
+}
+.btn{
+  color: darkred;
+  padding: 7px 15px;
+  font-size: 18px;
+  text-align: left;
+}
+.btn:hover{
+  color:white;
+  background-color: darkred;
+}
+.col-md-8{
+  background-color: white;
 }
