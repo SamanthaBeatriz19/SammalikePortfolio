@@ -1,24 +1,36 @@
-/*.parallax{
-   height: 500px;
-   background-image: url("images/fenhir.png") ;
-   background-attachment: fixed;
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-position: center-top;
-}*/
+/*Paleta de cores 
+-RGB: 40, 55, 65
+-RGB: 88, 62, 35
+RGB: 115, 104, 59
+RGB: 176, 160, 132
+*/
 .fundo{
-   background-color: rgb(234, 255, 222);
+   background-color: rgb(253, 253, 243);
 }
-.btn{
-  color: darkred;
-  padding: 7px 15px;
-  font-size: 18px;
+
+/*Botoes da tab*/
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+.tablink:hover {
+  background-color: #777;
+}
+
+/*Conteudo da tab*/
+.tabcontent {
+  color: rgb(54, 40, 24);
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
+.row{
   text-align: left;
-}
-.btn:hover{
-  color:white;
-  background-color: darkred;
-}
-.col-md-8{
-  background-color: white;
 }
