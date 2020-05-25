@@ -31,7 +31,7 @@
 }
 
 
-//GALERIA
+/*GALERIA*/
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -75,4 +75,41 @@
 table{
   width:80%;
   border-collapse: collapse;
+}
+
+.social{
+  background-color: rgb(128, 207, 253);
+  color: white;
+  border: none;
+  outline: none;
+ padding: 14px 16px;
+}
+.social1{
+  background-color: rgb(253, 140, 111);
+  color: white;
+  border: none;
+  outline: none;
+ padding: 14px 16px;
+}
+.fa{
+  font-size: 30px;
+  width: 90px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.fa-twitter {
+  color: white;
+  text-align: center;
+}
+.fa-instagram {
+  color: white;
+  text-align: center;
+}
+.fa:hover {
+  opacity: 0.7;
 }
