@@ -82,18 +82,20 @@ table{
   color: white;
   border: none;
   outline: none;
- padding: 14px 16px;
+ padding: 14px;
+ width:25%;
 }
 .social1{
   background-color: rgb(253, 140, 111);
   color: white;
   border: none;
   outline: none;
- padding: 14px 16px;
+ padding: 14px ;
+ width:25%;
 }
 .fa{
   font-size: 30px;
-  width: 90px;
+  width: 25%;
   text-align: center;
   text-decoration: none;
 }
@@ -112,4 +114,7 @@ table{
 }
 .fa:hover {
   opacity: 0.7;
+}
+.barra{
+  background-color:#555;
 }
