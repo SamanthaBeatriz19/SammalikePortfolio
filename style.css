@@ -42,7 +42,7 @@ div .Destaque{
 }
 .Dest{
   color:#fff;
-  padding: 220px 0;
+  padding: 200px 0;
 }
 
 /*GALERIA*/
@@ -75,6 +75,9 @@ div .Destaque{
     flex: 50%;
     max-width: 50%;
   }
+  .Dest{
+    padding: 120px 0;
+  }
 }
 
 /* Responsive layout  */
@@ -93,6 +96,14 @@ table{
 
 .social{
   background-color: rgb(128, 207, 253);
+  color: white;
+  border: none;
+  outline: none;
+ padding: 14px;
+ width:25%;
+}
+.social2{
+  background-color: rgb(46, 46, 46);
   color: white;
   border: none;
   outline: none;
@@ -123,6 +134,10 @@ table{
   text-align: center;
 }
 .fa-instagram {
+  color: white;
+  text-align: center;
+}
+.fa-github {
   color: white;
   text-align: center;
 }
