@@ -1,0 +1,38 @@
+.fundo{
+   background-color: rgb(57, 59, 61);
+}
+h1,h3{
+  color: white;
+}
+p{
+  color: white;
+  text-align: center;
+}
+
+img{
+  width: 80%;
+  vertical-align: middle;
+  padding: 10 0;
+}
+
+@media screen and (max-width: 600px) {
+  img{
+    width: 100%
+  }
+}
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.botao{
+  width: 60%;
+  background-color: rgb(236, 121, 92);
+  color: white;
+  border: none;
+  outline: none;
+  height: 30px;
+}
