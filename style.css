@@ -78,6 +78,7 @@ div .Destaque{
   .Dest{
     padding: 120px 0;
   }
+  
 }
 
 /* Responsive layout  */
@@ -91,6 +92,7 @@ div .Destaque{
     padding: 50px 0;
     font-size: 20pt;
   }
+  
 }
 
 table{
