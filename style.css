@@ -32,13 +32,14 @@
 
 /*Banner de Destaque na Home*/
 div .Destaque{
-  background-image:url(images/recorte.png);
+  background-image:url(images/palace.png);
   background-size:100% auto;
   background-repeat:no-repeat;
+  background-attachment: fixed;
   opacity:85%;
   height:450px;
   width:100%
-
+  
 }
 .Dest{
   color:#fff;
