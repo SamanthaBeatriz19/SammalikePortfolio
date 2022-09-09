@@ -1,5 +1,7 @@
 # SamPortfolio
-site de portfólio para trabalho de arte 
+site de portfólio para trabalho de arte (obsoleto)
+
+Ainda sim ao desenvolver esse site eu consegui ter uma vizão melhor da minha propria capacidade como desenvolvedora de me motivar usando temas que puxam minha atenção
 
 ->Propósito:
 este site é feito para teste de implementaçao de API's externas e planejado para ser um catálogo estático hosteado pelo próprio github
